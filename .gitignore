@@ -1,0 +1,14 @@
+# WSQ source deck — internal reference only, never published with the non-WSQ course
+reference/
+
+# OS / Office junk
+.DS_Store
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip
