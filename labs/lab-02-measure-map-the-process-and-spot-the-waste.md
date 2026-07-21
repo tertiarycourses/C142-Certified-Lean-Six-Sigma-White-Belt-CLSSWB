@@ -56,4 +56,4 @@ Save your output — it forms part of your BrewBean Cafe improvement package —
 
 ---
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v3 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v4 · © 2026 Tertiary Infotech Academy Pte Ltd*

@@ -26,7 +26,7 @@ standard.
 TITLE        = "Certified Lean Six Sigma White Belt (CLSSWB) Training"
 SHORT_TITLE  = "Certified Lean Six Sigma White Belt (CLSSWB) Training"
 COURSE_CODE  = "C142"
-VERSION      = "v3"
+VERSION      = "v4"
 VERSION_DATE = "21 July 2026"
 ORG          = "Tertiary Infotech Academy Pte Ltd"
 UEN          = "UEN: 201200696W"
@@ -306,8 +306,13 @@ VERSION_HISTORY = [
     ("2", "19 July 2026", "Rebuilt from the single-source content module: DMAIC roadmap end to end within one "
      "8-hour training day, exactly one hands-on lab per DMAIC phase (5 labs) on a single continuous scenario, "
      "content simplified to White Belt awareness depth.", TRAINER),
-    ("3", VERSION_DATE,
+    ("3", "21 July 2026",
      "Released under course code C142 as a commercial one-day hands-on course. Schedule restructured so "
      "every DMAIC lab gains additional hands-on time and the day closes with a full course recap and Q&A.",
+     TRAINER),
+    ("4", VERSION_DATE,
+     "Slide deck expanded to full teaching depth: per-concept teaching slides for Foundations and every "
+     "DMAIC phase (worked examples, diagrams and phase recaps), matching the depth of the original "
+     "White Belt trainer deck.",
      TRAINER),
 ]

@@ -2,7 +2,7 @@
 
 One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg) (UEN 201200696W). Learners walk the full **DMAIC** roadmap — Define, Measure, Analyze, Improve, Control — with exactly one hands-on lab per phase, all on a single running scenario: the **BrewBean Cafe morning rush**.
 
-**Course Code:** C142 · **Duration:** 1 day (8 training hours) · **Version:** v3 · 21 July 2026
+**Course Code:** C142 · **Duration:** 1 day (8 training hours) · **Version:** v4 · 21 July 2026
 
 ## What You'll Learn
 
