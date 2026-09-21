@@ -1,8 +1,10 @@
-# C142 — Certified Lean Six Sigma White Belt (CLSSWB) Training
+# C142 — Certified Lean Six Sigma White Belt (CLSSWB)
 
 One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg) (UEN 201200696W). Learners walk the full **DMAIC** roadmap — Define, Measure, Analyze, Improve, Control — with exactly one hands-on lab per phase, all on a single running scenario: the **BrewBean Cafe morning rush**.
 
-**Course Code:** C142 · **Duration:** 1 day (8 training hours) · **Version:** v4 · 21 July 2026
+**Course Code:** C142 · **Duration:** 1 day · 7.5 instructional hours (9:30am – 5:30pm) · **Version:** v2 · 19 July 2026
+
+**Register:** https://www.tertiarycourses.com.sg/certified-lean-six-sigma-white-belt.html
 
 ## What You'll Learn
 
@@ -19,7 +21,7 @@ One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Lt
 |------|----------|
 | `courseware/` | Slide deck (PPTX + PDF), Lesson Plan (LP) and Learner Guide (LG) as DOCX + PDF |
 | `labs/` | Five hands-on labs (one per DMAIC phase), lab index and the Lean Six Sigma toolkit |
-| `LG-Certified Lean Six Sigma White Belt (CLSSWB) Training.md` | Markdown mirror of the Learner Guide |
+| `LG-Certified Lean Six Sigma White Belt (CLSSWB).md` | Markdown mirror of the Learner Guide |
 
 ## The Five Labs
 

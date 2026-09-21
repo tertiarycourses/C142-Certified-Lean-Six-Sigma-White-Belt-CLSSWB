@@ -1,12 +1,12 @@
-# Labs — Certified Lean Six Sigma White Belt (CLSSWB) Training
+# Labs — Certified Lean Six Sigma White Belt (CLSSWB)
 
-**Course Code:** C142  |  **Version v4 · 21 July 2026**
+**Course Code:** C142  |  **Version v2 · 19 July 2026**
 
 These labs follow the DMAIC roadmap end to end. Every lab builds on the same BrewBean Cafe morning rush scenario, so your outputs accumulate into one complete improvement package.
 
 ## Lab types
 
-- **Core** — completed by everyone; each lab builds one part of the BrewBean Cafe improvement story.
+- **Core** — completed by everyone; each lab feeds the next.
 - **Elective** — additional practice with further Lean Six Sigma tools; run when time allows or after the course.
 
 ## Lab index

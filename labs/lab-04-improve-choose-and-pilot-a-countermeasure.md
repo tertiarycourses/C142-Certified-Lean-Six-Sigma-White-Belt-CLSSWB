@@ -1,10 +1,10 @@
 # Lab 4 — Improve — Choose and Pilot a Countermeasure
 
-**DMAIC phase:** IMPROVE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) Training (C142)
+**DMAIC phase:** IMPROVE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) (C142)
 
 ## Objective
 
-Describe improvement actions that address the identified cause.
+Describe improvement actions that address the identified cause (A5, K2).
 
 ## Scenario
 
@@ -52,8 +52,8 @@ Your selected countermeasure clearly addresses the root cause from Lab 3 (not th
 
 ## Deliverable
 
-Save your output — it forms part of your BrewBean Cafe improvement package — by the end of the day your five outputs tell the complete improvement story.
+Save your output — it forms part of your BrewBean Cafe improvement package and your take-home reference.
 
 ---
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v4 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma White Belt (CLSSWB) · C142 · Version v2 · © 2026 Tertiary Infotech Academy Pte Ltd*

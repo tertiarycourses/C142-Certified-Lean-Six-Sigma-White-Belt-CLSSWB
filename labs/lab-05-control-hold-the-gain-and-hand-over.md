@@ -1,10 +1,10 @@
 # Lab 5 — Control — Hold the Gain and Hand Over
 
-**DMAIC phase:** CONTROL  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) Training (C142)
+**DMAIC phase:** CONTROL  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) (C142)
 
 ## Objective
 
-Describe the control actions that sustain an improvement.
+Describe the control actions that sustain an improvement (A5, K2).
 
 ## Scenario
 
@@ -52,8 +52,8 @@ Your control plan names a measure, a target, a frequency and an owner; your reac
 
 ## Deliverable
 
-Save your output — it forms part of your BrewBean Cafe improvement package — by the end of the day your five outputs tell the complete improvement story.
+Save your output — it forms part of your BrewBean Cafe improvement package and your take-home reference.
 
 ---
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v4 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma White Belt (CLSSWB) · C142 · Version v2 · © 2026 Tertiary Infotech Academy Pte Ltd*

@@ -12,3 +12,4 @@ __pycache__/
 
 # Distribution archives (rebuildable — never pushed to GitHub)
 *.zip
+source-wsq/

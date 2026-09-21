@@ -1,6 +1,6 @@
 # Lean Six Sigma Toolkit
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142*
+*Certified Lean Six Sigma White Belt (CLSSWB) · C142*
 
 ## Interactive online tools
 
@@ -8,10 +8,10 @@ These browser-based tools are used during the labs. No installation or licence n
 
 | Tool | What it does | Used in |
 |------|--------------|---------|
-| [5 Whys](https://alfredang.github.io/5whys/) | Build and share a 5 Whys root-cause chain | Lab 3 |
-| [Fishbone Diagram](https://alfredang.github.io/fishbone/) | Build an Ishikawa cause-and-effect diagram | Lab 3 |
-| [Pareto Chart](https://alfredang.github.io/paretochart/) | Collaborative session: the team brainstorms and votes, and the Pareto chart builds itself live | Lab 3 |
-| [NovaSPC](https://alfredang.github.io/novaspc/) | Run charts, SPC charts (c, u, np, p, X-mR, X̄-R, X̄-s) and process capability from your own CSV | Labs 3, 5 (optional) |
+| [5 Whys](https://alfredang.github.io/5whys/) | Build and share a 5 Whys root-cause chain | Lab 8 |
+| [Fishbone Diagram](https://alfredang.github.io/fishbone/) | Build an Ishikawa cause-and-effect diagram | Lab 8 |
+| [Pareto Chart](https://alfredang.github.io/paretochart/) | Collaborative session: the team brainstorms and votes, and the Pareto chart builds itself live | Lab 7 |
+| [NovaSPC](https://alfredang.github.io/novaspc/) | Run charts, SPC charts (c, u, np, p, X-mR, X̄-R, X̄-s) and process capability from your own CSV | Labs 7, 10 |
 
 ### Using the collaborative Pareto tool
 

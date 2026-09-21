@@ -1,10 +1,10 @@
 # Lab 1 — Define — Customer Requirements and the Problem Statement
 
-**DMAIC phase:** DEFINE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) Training (C142)
+**DMAIC phase:** DEFINE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) (C142)
 
 ## Objective
 
-Identify customer requirements and write a clear problem statement.
+Identify customer requirements and write a clear problem statement (A1, A2).
 
 ## Scenario
 
@@ -48,8 +48,8 @@ Every CTQ has a number and a unit, your problem statement contains no solution, 
 
 ## Deliverable
 
-Save your output — it forms part of your BrewBean Cafe improvement package — by the end of the day your five outputs tell the complete improvement story.
+Save your output — it forms part of your BrewBean Cafe improvement package and your take-home reference.
 
 ---
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v4 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma White Belt (CLSSWB) · C142 · Version v2 · © 2026 Tertiary Infotech Academy Pte Ltd*

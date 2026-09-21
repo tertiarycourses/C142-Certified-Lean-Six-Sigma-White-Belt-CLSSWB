@@ -1,10 +1,10 @@
 # Lab 3 — Analyze — Find the Root Cause
 
-**DMAIC phase:** ANALYZE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) Training (C142)
+**DMAIC phase:** ANALYZE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma White Belt (CLSSWB) (C142)
 
 ## Objective
 
-Identify likely causes using 5 Whys and Fishbone analysis.
+Identify likely causes using 5 Whys and Fishbone analysis (A3, K2).
 
 ## Scenario
 
@@ -52,8 +52,8 @@ Your 5 Whys chain ends in something the team can actually act on, every Fishbone
 
 ## Deliverable
 
-Save your output — it forms part of your BrewBean Cafe improvement package — by the end of the day your five outputs tell the complete improvement story.
+Save your output — it forms part of your BrewBean Cafe improvement package and your take-home reference.
 
 ---
 
-*Certified Lean Six Sigma White Belt (CLSSWB) Training · C142 · Version v4 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma White Belt (CLSSWB) · C142 · Version v2 · © 2026 Tertiary Infotech Academy Pte Ltd*
