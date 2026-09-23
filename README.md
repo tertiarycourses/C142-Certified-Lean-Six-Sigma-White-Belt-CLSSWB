@@ -2,7 +2,7 @@
 
 One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg) (UEN 201200696W). Learners walk the full **DMAIC** roadmap — Define, Measure, Analyze, Improve, Control — with exactly one hands-on lab per phase, all on a single running scenario: the **BrewBean Cafe morning rush**.
 
-**Course Code:** C142 · **Duration:** 1 day · 7.5 instructional hours (9:30am – 5:30pm) · **Version:** v2 · 19 July 2026
+**Course Code:** C142 · **Duration:** 1 day · 7.5 instructional hours (9:30am – 5:30pm) · **Version:** v3 · 23 September 2026
 
 **Register:** https://www.tertiarycourses.com.sg/certified-lean-six-sigma-white-belt.html
 
@@ -20,10 +20,10 @@ One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Lt
 | Path | Contents |
 |------|----------|
 | `courseware/` | Slide deck (PPTX + PDF), Lesson Plan (LP) and Learner Guide (LG) as DOCX + PDF |
-| `labs/` | Five hands-on labs (one per DMAIC phase), lab index and the Lean Six Sigma toolkit |
+| `activities/` | Five hands-on activities (one per DMAIC phase), each with facilitator guide, learner worksheet, checklist, data pack, templates and model answer |
 | `LG-Certified Lean Six Sigma White Belt (CLSSWB).md` | Markdown mirror of the Learner Guide |
 
-## The Five Labs
+## The Five Activities
 
 1. **Define** — Customer Requirements and the Problem Statement
 2. **Measure** — Map the Process and Spot the Waste
@@ -31,7 +31,7 @@ One-day Lean Six Sigma **awareness** course by [Tertiary Infotech Academy Pte Lt
 4. **Improve** — Choose and Pilot a Countermeasure
 5. **Control** — Hold the Gain and Hand Over
 
-All courseware (PPT, LP, LG, labs index) is generated from a single content source so every artifact stays 100% aligned.
+All courseware (PPT, LP, LG, activity index) is generated from a single content source so every artifact stays 100% aligned.
 
 ## Acknowledgements
 
